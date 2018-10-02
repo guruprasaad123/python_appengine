@@ -2,6 +2,8 @@ from handler import data_handler
 
 """
  "C:\python_2.7\python.exe" "C:\Program Files (x86)\Google\google_appengine\dev_appserver.py" "./app.yaml"
+ pip install -t lib -r requirements.txt
+ pip install -t lib <filename>
 """
 analysis_handler = data_handler()
 results=analysis.modelize()

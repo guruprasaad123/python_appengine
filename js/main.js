@@ -50,7 +50,10 @@ const {results} = this.state;
 return (
 
     <div style={{
-margin:"0px"
+        margin: "0% 10%",
+        border:" solid 2px grey",
+        padding:"0% 0% 0% 30%",
+        ["align-items"]: "center",
     }}>
     <form
     method={'post'}

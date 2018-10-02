@@ -2,12 +2,43 @@
 import json
 from pprint import pprint
 from google.appengine.api import search
-
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import db
 
 class data_handler():
 
     #def ___init__(self):
         #self.analysis_results=[]
+
+    def firebase_init(self):
+        self.cred = credentials.Certificate('serviceAccountKey.json')
+        firebase_admin.initialize_app(self.cred,{'databaseURL': 'https://caseletize-demo.firebaseio.com/'});
+        return self.cred;
+
+    def Dbreference(self,path):
+        # As an admin, the app has access to read and write all data, regradless of Security Rules
+        ref = db.reference(path);
+        return ref.get();
+
+
+    def fetch_caselets(self):
+        self.firebase_init();
+        data = self.Dbreference('ORG-DITIMICS/browse/system/caselets-main-published');
+        return data;
+
+    def caselets_doc(self):
+        self.items=[];
+        caselets = self.fetch_caselets();
+        for key,value in caselets.iteritems():
+            self.items.append(key);
+        return self.items;
+
+
+
+
+
+
 
 
     def fetch_json(self):

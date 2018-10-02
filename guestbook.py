@@ -34,6 +34,27 @@ class Greeting(ndb.Model):
   content = ndb.TextProperty()
   date = ndb.DateTimeProperty(auto_now_add=True)
 
+class Search_Caselets(webapp2.RequestHandler):
+
+  def get(post):
+    caselet_handler = data_handler();
+    caselets = caselet_handler.caselets_doc();
+    self.response.out.write('<html><body>')
+    if(caselets is None):
+      self.response.out.write("""
+      <ul><li>
+      No Results Data
+      </li></ul>
+      """)
+    else:
+      self.response.out.write('<ol>')
+      for X in caselets:
+        self.response.out.write('<li> %s </li>' % X[0].id)
+      self.response.out.write('</ol>')
+      self.response.out.write("""
+      </body></html>
+      """);
+
 class Search(webapp2.RequestHandler):
   def post(self):
     response_data={}
@@ -131,5 +152,6 @@ app = webapp2.WSGIApplication([
   ('/', MainPage),
   ('/sign', Guestbook),
   ('/analysis',Analysis),
-  ('/search',Search)
+  ('/search',Search),
+  ('/caselets',Search_Caselets)
 ], debug=True)

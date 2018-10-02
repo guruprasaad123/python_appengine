@@ -4,6 +4,7 @@
   "description": "Google App Engine",
   "main": "index.js",
   "scripts": {
+    "install":"npm install -g parcel-bundler",
     "build":" parcel build js/main.js -d static/ "
   },
   "dependencies": {
