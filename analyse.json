@@ -1,0 +1,1540 @@
+{
+  "-KncfmXQg0l7gV7lTAuw" : {
+    "identifiers" : {
+      "CAM" : "Platform Re-engineering and Opti-shore delivery ",
+      "CLS" : "Partner",
+      "RES" : "CAM",
+      "caselets" : {
+        "-KnciSc5XqNLJuhyBdv8" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Platform Reengineering and Solutions architecture" ],
+                      "t" : [ "HarperCollins" ],
+                      "tp" : "Solution Technical"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498507597911_CAS-epr-C-gc-solution-main-image.jpg?alt=media&token=f649ae1f-d7bb-418e-827c-e94bfbe9ce2b"
+                      },
+                      "metaData" : {
+                        "thumbnailDefault" : {
+                          "Name" : "CAS-epr-C-gc-solution-main-image.jpg",
+                          "Size" : 33316,
+                          "Type" : "image/jpeg",
+                          "height" : 353,
+                          "width" : 705
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-Knck4ZggZ8Cqum1QNId" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Washington County Closed-Circuit Educational Television Project" ],
+                      "t" : [ "Giftcertificates.com" ],
+                      "tp" : "Solution Sub"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494575624_pexels-photo-296878.jpeg?alt=media&token=31692b65-eeac-40bd-8cfb-882b2a664ed8",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494748784?alt=media&token=b4f190ed-64a3-43aa-b825-d11d76d7ab4a",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494809459?alt=media&token=db7b3f71-3275-47ed-9d79-5bdcf3cfeaeb",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494651771?alt=media&token=9a505870-3172-4ddd-bbbf-7b459a7b39f0",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494691136?alt=media&token=90b4584b-7646-4d8c-b5f4-9370fe7f795c"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1498494748784.png",
+                          "Size" : 664733,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        },
+                        "md" : {
+                          "Name" : "1498494809459.png",
+                          "Size" : 115133,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 170,
+                          "width" : 320
+                        },
+                        "sm" : {
+                          "Name" : "1498494651771.png",
+                          "Size" : 35475,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 90,
+                          "width" : 160
+                        },
+                        "thumbnailDefault" : {
+                          "Name" : "pexels-photo-296878.jpeg",
+                          "Size" : 304783,
+                          "Type" : "image/jpeg",
+                          "height" : 900,
+                          "width" : 1600
+                        },
+                        "xs" : {
+                          "Name" : "1498494691136.png",
+                          "Size" : 16790,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 80,
+                          "width" : 80
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1498552412561,
+      "desc" : "",
+      "lastUpdated" : -1498552412429,
+      "name" : "Platform Re-engineering and Opti-shore delivery ",
+      "slug" : "Platform-Re-engineering-and-Opti-shore-delivery-",
+      "status" : "draft",
+      "title" : "New development & re-engineering for digital solutions",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1498552412561
+  },
+  "-Knl_CjzIbXI9rRgXJBA" : {
+    "identifiers" : {
+      "CAM" : "Giftcertificates Platform Reengineering",
+      "CLS" : "Organization",
+      "RES" : "CAM",
+      "caselets" : {
+        "-KnlekfnsOP_nPp0lcK4" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Platform stabilization and re-engineering for an online retailer" ],
+                      "t" : [ "Giftcertificates.com" ],
+                      "tp" : "Project Main"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494575624_pexels-photo-296878.jpeg?alt=media&token=31692b65-eeac-40bd-8cfb-882b2a664ed8",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498702086235?alt=media&token=81ebec39-1166-458f-83a7-52a11a2e8f9d",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494809459?alt=media&token=db7b3f71-3275-47ed-9d79-5bdcf3cfeaeb",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494651771?alt=media&token=9a505870-3172-4ddd-bbbf-7b459a7b39f0",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494691136?alt=media&token=90b4584b-7646-4d8c-b5f4-9370fe7f795c"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1498702086235.png",
+                          "Size" : 685325,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-KoSo8K5pXNWwZUC6eCK" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Platform re-engineering for an online retailer" ],
+                      "t" : [ "Giftcertificates.com" ],
+                      "tp" : "Project Variant"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494575624_pexels-photo-296878.jpeg?alt=media&token=31692b65-eeac-40bd-8cfb-882b2a664ed8",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498702086235?alt=media&token=81ebec39-1166-458f-83a7-52a11a2e8f9d",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494809459?alt=media&token=db7b3f71-3275-47ed-9d79-5bdcf3cfeaeb",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494651771?alt=media&token=9a505870-3172-4ddd-bbbf-7b459a7b39f0",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494691136?alt=media&token=90b4584b-7646-4d8c-b5f4-9370fe7f795c"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1498702086235.png",
+                          "Size" : 685325,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1498701684294,
+      "desc" : "",
+      "lastUpdated" : -1498701683646,
+      "name" : "Giftcertificates Platform Reengineering",
+      "slug" : "Giftcertificates-Platform-Reengineering",
+      "status" : "draft",
+      "title" : "Giftcertificates Platform Reengineering",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1498701684294
+  },
+  "-KnrQaeJqfjfH_0Z4eyy" : {
+    "identifiers" : {
+      "CAM" : "test master",
+      "CLS" : "Industry",
+      "RES" : "CAM",
+      "caselets" : {
+        "-KnrR6ROfoAqn66bCpxI" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "GIFTCERTIFICATES" ],
+                      "t" : [ "American Eagle Outfitters" ],
+                      "tp" : "Solution"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494575624_pexels-photo-296878.jpeg?alt=media&token=31692b65-eeac-40bd-8cfb-882b2a664ed8",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498702086235?alt=media&token=81ebec39-1166-458f-83a7-52a11a2e8f9d",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494809459?alt=media&token=db7b3f71-3275-47ed-9d79-5bdcf3cfeaeb",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494651771?alt=media&token=9a505870-3172-4ddd-bbbf-7b459a7b39f0",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494691136?alt=media&token=90b4584b-7646-4d8c-b5f4-9370fe7f795c"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1498702086235.png",
+                          "Size" : 685325,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1498799828022,
+      "desc" : "",
+      "lastUpdated" : -1498799827881,
+      "name" : "test master",
+      "slug" : "test-master",
+      "status" : "draft",
+      "title" : "This is master for testing",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1498799828022
+  },
+  "-KnwyWvk9bTEPZZpMdSh" : {
+    "identifiers" : {
+      "CAM" : "Forfend IoT Solutions",
+      "CLS" : "Organization",
+      "RES" : "CAM",
+      "caselets" : {
+        "-KnwzdciBvDqAtWIxcfK" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "An IT services pro is making life easier for employees and administrators" ],
+                      "t" : [ "IT Services Company" ],
+                      "tp" : "Solution Variant "
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498892465976_forfend%20main%20image.png?alt=media&token=fd2f76c4-ffc7-4596-8134-b0283068a65f",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498892796950?alt=media&token=5ea33da0-06d4-4eb2-83fe-33ea28910fdd",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498892754388?alt=media&token=68c82e1a-df56-4fe0-a89a-4cad343d8021",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498892717212?alt=media&token=53077059-b2ec-4464-9e5a-7fad594303b1"
+                      },
+                      "metaData" : {
+                        "md" : {
+                          "Name" : "1498892796950.png",
+                          "Size" : 105725,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 180,
+                          "width" : 320
+                        },
+                        "sm" : {
+                          "Name" : "1498892754388.png",
+                          "Size" : 31928,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 90,
+                          "width" : 160
+                        },
+                        "thumbnailDefault" : {
+                          "Name" : "forfend main image.png",
+                          "Size" : 3559145,
+                          "Type" : "image/png",
+                          "height" : 1655,
+                          "width" : 3309
+                        },
+                        "xs" : {
+                          "Name" : "1498892717212.png",
+                          "Size" : 9934,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 60,
+                          "width" : 60
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1498892869649,
+      "desc" : "",
+      "lastUpdated" : -1498892869332,
+      "name" : "Forfend IoT Solutions",
+      "slug" : "Forfend-IoT-Solutions",
+      "status" : "draft",
+      "title" : "Forfend IoT Solutions",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1498892869649
+  },
+  "-KoVZo3PvnHaNRbSESkn" : {
+    "identifiers" : {
+      "CAM" : "Gemini National Grid Transco",
+      "CLS" : "Organization",
+      "RES" : "CAM",
+      "caselets" : {
+        "-Kxm7KJDyCBlSByI4DXZ" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Gemini National Grid Transco" ],
+                      "t" : [ "Bihive" ],
+                      "tp" : "Solution"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494575624_pexels-photo-296878.jpeg?alt=media&token=31692b65-eeac-40bd-8cfb-882b2a664ed8",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498702086235?alt=media&token=81ebec39-1166-458f-83a7-52a11a2e8f9d",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494809459?alt=media&token=db7b3f71-3275-47ed-9d79-5bdcf3cfeaeb",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1499673123807?alt=media&token=afd4403a-845a-409a-b314-620bf2786a35",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1498494691136?alt=media&token=90b4584b-7646-4d8c-b5f4-9370fe7f795c"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1498702086235.png",
+                          "Size" : 685325,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        },
+                        "sm" : {
+                          "Name" : "1499673123807.png",
+                          "Size" : 36825,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 90,
+                          "width" : 160
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-L-ily2uOP3PSxklqmzx" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Caselet Brief Test" ],
+                      "t" : [ "National Grid Transco" ],
+                      "tp" : "Solution Technical"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/ORG-DITIMICS%2F1509710309676_WhatsApp%20Image%202017-08-20%20at%2010.20.06.jpeg?alt=media&token=73fc811d-e0e8-416a-876c-8e236fe87183"
+                      },
+                      "metaData" : {
+                        "thumbnailDefault" : {
+                          "Name" : "WhatsApp Image 2017-08-20 at 10.20.06.jpeg",
+                          "Size" : 181499,
+                          "Type" : "image/jpeg",
+                          "height" : 1280,
+                          "width" : 960
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1499490108065,
+      "desc" : "",
+      "lastUpdated" : -1499490107765,
+      "name" : "Gemini National Grid Transco",
+      "slug" : "Gemini-National-Grid-Transco",
+      "status" : "draft",
+      "title" : "Gemini National Grid Transco",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1499490108065
+  },
+  "-L0Z66Q87olWgcLfZVHr" : {
+    "identifiers" : {
+      "CAM" : "Digital Commerce",
+      "CLS" : "Industry",
+      "RES" : "CAM",
+      "caselets" : {
+        "-L0Z859EB5BPVLM7IZrF" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Product Content & Catalog Management (Digital Commerce)" ],
+                      "t" : [ "Digital Commerce" ],
+                      "tp" : "Use Case Group"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-L0ZLj2NHnPxYqlGNsF2" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Unified content (Product Content & Catalog Management)" ],
+                      "t" : [ "Digital Commerce" ],
+                      "tp" : "Use Case"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/ORG-DITIMICS%2F1513511743936_students-with-papers-at-table-PZ3XN5B.jpg?alt=media&token=cd515819-43ff-4334-beed-f90005edc6f7",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511970260?alt=media&token=4a6f6f13-2b63-407b-ba27-e77c742e563d",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511930836?alt=media&token=ff3faacc-e5d0-49e5-81eb-c4016da6d826",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511907307?alt=media&token=ca8ea663-0476-4843-8f47-5feae563aa69",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511811506?alt=media&token=4796e886-fbca-42e9-b191-9db3fd046406"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1513511970260.png",
+                          "Size" : 661812,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        },
+                        "md" : {
+                          "Name" : "1513511930836.png",
+                          "Size" : 119047,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 180,
+                          "width" : 320
+                        },
+                        "sm" : {
+                          "Name" : "1513511907307.png",
+                          "Size" : 32877,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 90,
+                          "width" : 160
+                        },
+                        "thumbnailDefault" : {
+                          "Name" : "students-with-papers-at-table-PZ3XN5B.jpg",
+                          "Size" : 10925250,
+                          "Type" : "image/jpeg",
+                          "height" : 3840,
+                          "width" : 5760
+                        },
+                        "xs" : {
+                          "Name" : "1513511811506.png",
+                          "Size" : 9077,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 60,
+                          "width" : 60
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-L0ZZ_oYTIkSOUb2bBl3" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Product Information (Product Content & Catalog Management)" ],
+                      "t" : [ "Digital Commerce" ],
+                      "tp" : "Use Case"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1513508075504,
+      "desc" : "",
+      "lastUpdated" : -1513508075369,
+      "name" : "Digital Commerce",
+      "slug" : "Digital-Commerce",
+      "status" : "draft",
+      "title" : "Digital Commerce",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1513508075504
+  },
+  "-L0rkqVDYzorWq_bCJlA" : {
+    "identifiers" : {
+      "CAM" : "Yes Bank B2B Digital Services",
+      "CLS" : "Organization",
+      "RES" : "CAM",
+      "caselets" : {
+        "-L0rmOysyrXF2XKu5R7b" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Yes Bank B2B Digital Services" ],
+                      "t" : [ "Rivertide" ],
+                      "tp" : "Project Main"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/ORG-DITIMICS%2F1513443846400_Connected-Buildings.jpg?alt=media&token=9414bbd5-64f0-420d-9f05-975a412c91ad",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513838065866?alt=media&token=619e40d3-2c96-44fc-8fad-2c381536e7c0",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513450222122?alt=media&token=dfd3ccae-f6a0-4d90-9e57-ba84284a5694",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513450178566?alt=media&token=c26f8b5a-e4cd-4156-a95a-b87d0515113b",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513450153495?alt=media&token=9ff2db5a-2d58-4039-9381-e0efaa3ccdbe"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1513838065866.png",
+                          "Size" : 638592,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        },
+                        "md" : {
+                          "Name" : "1513450222122.png",
+                          "Size" : 259405,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 270,
+                          "width" : 480
+                        },
+                        "thumbnailDefault" : {
+                          "Name" : "Connected-Buildings.jpg",
+                          "Size" : 388301,
+                          "Type" : "image/jpeg",
+                          "height" : 900,
+                          "width" : 1600
+                        },
+                        "undefined" : {
+                          "Name" : "delivery-truck.png",
+                          "Size" : 3397,
+                          "Type" : "image/png",
+                          "height" : 128,
+                          "width" : 128
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-L0wEW-zjlxgb8_YHstJ" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Yes Bank B2B Digital Services" ],
+                      "t" : [ "Gerber" ],
+                      "tp" : "Solution Variant "
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1513837783331,
+      "desc" : "",
+      "lastUpdated" : -1513837782971,
+      "name" : "Yes Bank B2B Digital Services",
+      "slug" : "Yes-Bank-B2B-Digital-Services",
+      "status" : "draft",
+      "title" : "Yes Bank B2B Digital Services",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1513837783331
+  },
+  "-L0tboWotgQQtwmhVmYd" : {
+    "identifiers" : {
+      "CAM" : "my Master",
+      "CLS" : "Industry",
+      "RES" : "CAM",
+      "caselets" : {
+        "-L0tcscUPu8RIQY1I_dB" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "my Master" ],
+                      "t" : [ "Trimble" ],
+                      "tp" : "Solution Variant "
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/ORG-DITIMICS%2F1513736167540_Yes%20Bank%20Arch.png?alt=media&token=a3466aa3-0127-4590-8030-255fc976e756"
+                      },
+                      "metaData" : {
+                        "thumbnailDefault" : {
+                          "Name" : "Yes Bank Arch.png",
+                          "Size" : 58410,
+                          "Type" : "image/png",
+                          "height" : 531,
+                          "width" : 859
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-L0wExVicnC1qKccQKQY" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "my Master" ],
+                      "t" : [ "Giftcertificates.com" ],
+                      "tp" : "Solution Technical"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1513868970428,
+      "desc" : "",
+      "lastUpdated" : -1513868970393,
+      "name" : "my Master",
+      "slug" : "my-Master",
+      "status" : "draft",
+      "title" : "my Master title",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1513868970428
+  },
+  "-L1qUDwX3WaL70zVLei_" : {
+    "identifiers" : {
+      "CAM" : "This is a test master for Vinod",
+      "CLS" : "Organization",
+      "RES" : "CAM",
+      "camId" : "-L1qUDwX3WaL70zVLei_",
+      "caselets" : {
+        "-L1qYYuxvd07VltKsB7B" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "This is a test master for Vinod" ],
+                      "t" : [ "Bihive" ],
+                      "tp" : "Solution Sub"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/ORG-DITIMICS%2F1513820156572_beach.png?alt=media&token=53f83d7f-fc50-4bab-b268-94378088ed8c",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513820899071?alt=media&token=5046b943-5c4c-4965-9f6c-f7c923439d5b",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513820327932?alt=media&token=106d2828-b358-4d66-ac99-d4b8c6d13faf",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513820347682?alt=media&token=27dd08f5-146a-403e-ac7f-5a0bf6566ac2",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513820189695?alt=media&token=60331f00-b215-4565-8e54-a5500bbd891e"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1513820899071.png",
+                          "Size" : 551942,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        },
+                        "md" : {
+                          "Name" : "1513820327932.png",
+                          "Size" : 102959,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 180,
+                          "width" : 320
+                        },
+                        "sm" : {
+                          "Name" : "1513820347682.png",
+                          "Size" : 27729,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 90,
+                          "width" : 160
+                        },
+                        "thumbnailDefault" : {
+                          "Name" : "beach.png",
+                          "Size" : 1286684,
+                          "Type" : "image/png",
+                          "height" : 666,
+                          "width" : 1003
+                        },
+                        "xs" : {
+                          "Name" : "1513820189695.png",
+                          "Size" : 8368,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 60,
+                          "width" : 60
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1514890129469,
+      "desc" : "",
+      "lastUpdated" : -1514971758923,
+      "name" : "This is a test master for Vinod",
+      "slug" : "This-is-a-test-master-for-Vinod",
+      "status" : "draft",
+      "title" : "This is a test master for Vinod",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1514971761335
+  },
+  "-L4uNX0pRCPeETXxojvH" : {
+    "identifiers" : {
+      "CAM" : "kenya",
+      "CLS" : "Organization",
+      "RES" : "CAM",
+      "camId" : "-L4uNX0pRCPeETXxojvH",
+      "caselets" : {
+        "-LAICqTRX7KA-GEjAtZH" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "kenya" ],
+                      "t" : [ "Keas" ],
+                      "tp" : "Project Technical"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1518176707027,
+      "desc" : "",
+      "lastUpdated" : -1518178703016,
+      "name" : "kenya",
+      "slug" : "kenya",
+      "status" : "draft",
+      "title" : "oppurtunities in kenya",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1518178703234
+  },
+  "-LAMQGRlGDd51-aFFkgw" : {
+    "identifiers" : {
+      "CAM" : "Guru's Caselet",
+      "CLS" : "Industry",
+      "RES" : "CAM",
+      "caselets" : {
+        "-LAMVCGki99ScKBflX8_" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "Guru's Caselet" ],
+                      "t" : [ "Bihive" ],
+                      "tp" : "Product Main"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1524032673930,
+      "desc" : "",
+      "lastUpdated" : -1524032673973,
+      "name" : "Guru's Caselet",
+      "slug" : "Guru's-Caselet",
+      "status" : "draft",
+      "title" : "starting with..."
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1524032673930
+  },
+  "-LC2nCbD8RrdDiIsTSp2" : {
+    "identifiers" : {
+      "CAM" : "BlockChain  competency",
+      "CLS" : "Industry",
+      "RES" : "CAM",
+      "caselets" : {
+        "-LC2t9nDEZwfEmFUzV1h" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "BlockChain  competency" ],
+                      "t" : [ "Digital Commerce" ],
+                      "tp" : "Solution"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1525850889156,
+      "desc" : "",
+      "lastUpdated" : -1525850890120,
+      "name" : "BlockChain  competency",
+      "slug" : "BlockChain--competency",
+      "status" : "draft",
+      "title" : "BlockChain  competency",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1525850889156
+  },
+  "-LCM9a-BQYmrv65o0_ef" : {
+    "identifiers" : {
+      "CAM" : "AI in Talent Management",
+      "CLS" : "Industry",
+      "RES" : "CAM",
+      "caselets" : {
+        "-LCMCFAXF70Zc8fNvf1k" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "AI in Talent Management" ],
+                      "t" : [ "IT Services Company" ],
+                      "tp" : "Use Case Group"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/ORG-DITIMICS%2F1513511743936_students-with-papers-at-table-PZ3XN5B.jpg?alt=media&token=cd515819-43ff-4334-beed-f90005edc6f7",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511970260?alt=media&token=4a6f6f13-2b63-407b-ba27-e77c742e563d",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511930836?alt=media&token=ff3faacc-e5d0-49e5-81eb-c4016da6d826",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511907307?alt=media&token=ca8ea663-0476-4843-8f47-5feae563aa69",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513511811506?alt=media&token=4796e886-fbca-42e9-b191-9db3fd046406"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1513511970260.png",
+                          "Size" : 661812,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        },
+                        "md" : {
+                          "Name" : "1513511930836.png",
+                          "Size" : 119047,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 180,
+                          "width" : 320
+                        },
+                        "sm" : {
+                          "Name" : "1513511907307.png",
+                          "Size" : 32877,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 90,
+                          "width" : 160
+                        },
+                        "thumbnailDefault" : {
+                          "Name" : "students-with-papers-at-table-PZ3XN5B.jpg",
+                          "Size" : 10925250,
+                          "Type" : "image/jpeg",
+                          "height" : 3840,
+                          "width" : 5760
+                        },
+                        "xs" : {
+                          "Name" : "1513511811506.png",
+                          "Size" : 9077,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 60,
+                          "width" : 60
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        },
+        "-LCMj9RwjeWpjX-0KuBP" : {
+          "cards" : {
+            "name-internal" : {
+              "card" : {
+                "c" : {
+                  "bm" : {
+                    "b" : {
+                      "s" : [ "AI in Talent Acquisition and Recruitment" ],
+                      "t" : [ "IT Services Company" ],
+                      "tp" : "Use Case Group"
+                    },
+                    "m" : {
+                      "im" : {
+                        "default" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/ORG-DITIMICS%2F1513508777735_promotion-product-strategy-marketing-concept-PG7CHW3.jpg?alt=media&token=48e87885-71b4-4dfd-b044-5c89ef2e2449",
+                        "lg" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513509170016?alt=media&token=664c1b5a-c1dc-4688-bda5-c9f120b1ea87",
+                        "md" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513509096434?alt=media&token=3a82c0b2-9425-4619-a39d-d020a54d4f3d",
+                        "sm" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513509059385?alt=media&token=f60accdf-0b17-4812-985b-b0b5b8ed3319",
+                        "xs" : "https://firebasestorage.googleapis.com/v0/b/caseletize-98f4a.appspot.com/o/public%2F1513509028264?alt=media&token=ced7345a-ec18-4f94-8138-26955b0c5587"
+                      },
+                      "metaData" : {
+                        "lg" : {
+                          "Name" : "1513509170016.png",
+                          "Size" : 461649,
+                          "Type" : "image/png",
+                          "cropped" : true,
+                          "height" : 450,
+                          "width" : 800
+                        },
+                        "thumbnailDefault" : {
+                          "Name" : "promotion-product-strategy-marketing-concept-PG7CHW3.jpg",
+                          "Size" : 8661748,
+                          "Type" : "image/jpeg",
+                          "height" : 4786,
+                          "width" : 6095
+                        }
+                      },
+                      "type" : "im"
+                    }
+                  }
+                }
+              },
+              "identifiers" : {
+                "CRC" : "CRC-00-10",
+                "name" : "Name internal",
+                "owned" : true,
+                "shared" : true
+              },
+              "style" : "NameCardStyles"
+            }
+          }
+        }
+      },
+      "createdBy" : "xejmAAQXWNQsxqT8ME8RYzJ5jY82",
+      "createdOn" : 1526175785027,
+      "desc" : "",
+      "lastUpdated" : -1526175784848,
+      "name" : "AI in Talent Management",
+      "slug" : "AI-in-Talent-Management",
+      "status" : "draft",
+      "title" : "AI in Talent Management",
+      "usecases" : {
+        "-LCM9a-BQYmrv65o0_ee" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "vin use case"
+        },
+        "-LCM9a-BQYmrv65o0_ef" : {
+          "camid" : "-LCM9a-BQYmrv65o0_ef",
+          "name" : "somethibnng"
+        },
+        "k5443sdsffSx" : {
+          "camid" : "retetvrt",
+          "nane" : "aaaa"
+        }
+      }
+    },
+    "maps" : {
+      "name" : {
+        "cardStyle" : "NameCardExternal",
+        "cards" : true
+      },
+      "name-internal" : {
+        "cardStyle" : "NameCardStyles",
+        "cards" : true
+      },
+      "snippet" : {
+        "card" : true,
+        "cardStyle" : "SnippetCard"
+      }
+    },
+    "updatedOn" : 1526175785027
+  }
+}
