@@ -32,7 +32,7 @@ console.log('value =>',e.target.value);
 handleSubmit(e)
 {
     const {search} = this.state;
-axios.post('/search',{
+axios.post('/caselets',{
     'search':search
 }).then( (Response)=>{
     console.log('response : ',Response);

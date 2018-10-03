@@ -26,6 +26,7 @@ from google.appengine.api import users
 from google.appengine.api import search
 from google.appengine.ext.webapp import template
 
+from datetime import date, datetime
 
 guestbook_key = ndb.Key('Guestbook', 'default_guestbook')
 
@@ -35,25 +36,43 @@ class Greeting(ndb.Model):
   date = ndb.DateTimeProperty(auto_now_add=True)
 
 class Search_Caselets(webapp2.RequestHandler):
+  def post(self):
+    response_data={}
+    json_request = json.loads(self.request.body)
+    search_for = json_request['search'];
+    search_analysis = search.Index('CASELETS_SEARCH')
+    search_results = search_analysis.search(search_for)
+    number_found  = search_results.number_found
+    field_results=[]
+    for result in search_results:
+      obj={}
+      for field in result.fields:
+        obj[field.name]=field.value
+      field_results.append(obj)
 
-  def get(post):
+    response_data['number']=number_found
+    response_data['data']=field_results
+    response_data['searchFor']=search_for
+    self.response.out.write(json.dumps(response_data,default=self.json_serial) )
+
+
+  def json_serial(self,obj):
+    """JSON serializer for objects not serializable by default json code"""
+
+    if isinstance(obj, (datetime, date)):
+        return obj.isoformat()
+    raise TypeError ("Type %s not serializable" % type(obj))
+
+
+  def get(self):
     caselet_handler = data_handler();
-    caselets = caselet_handler.caselets_doc();
-    self.response.out.write('<html><body>')
-    if(caselets is None):
-      self.response.out.write("""
-      <ul><li>
-      No Results Data
-      </li></ul>
-      """)
-    else:
-      self.response.out.write('<ol>')
-      for X in caselets:
-        self.response.out.write('<li> %s </li>' % X[0].id)
-      self.response.out.write('</ol>')
-      self.response.out.write("""
-      </body></html>
-      """);
+    result = caselet_handler.fetch_caselets();
+    values={
+      'head':'Caselets',
+      'sample':'searching caselets',
+    }
+    path = os.path.join(os.path.dirname(__file__),'template' ,'search.html')
+    self.response.out.write(template.render(path,values))
 
 class Search(webapp2.RequestHandler):
   def post(self):
