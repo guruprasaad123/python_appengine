@@ -18,8 +18,13 @@ This app is built with Materialize-UI on the front end and python 2.7 on the bac
 
 ### Installation:
 
-For the front-end that is [Materialize-UI](https://material-ui.com) to work , use [parcel.js](https://parceljs.org/) to convert es6 js files to web js files .
-
+For the front-end that is [Materialize-UI](https://material-ui.com) to work , use [parcel.js](https://parceljs.org/) to convert es6 js files to web js files.
+Install all of the depencies using this command.
+```
+npm i
+npm run install
+npm run build
+```
 First you'll need to install all the requirements that are needed to run the app.using the installation command,
 
 ```
